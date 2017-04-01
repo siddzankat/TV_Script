@@ -24,7 +24,7 @@
     <script>
       require.config({
           
-          urlArgs: "v=20170401144657",
+          urlArgs: "v=20170401182247",
           
           baseUrl: '/static/',
           paths: {
@@ -120,7 +120,7 @@
 <body class="edit_app "
  
 data-base-url="/"
-data-file-path="problem_unittests.py"
+data-file-path="deep-learning/tv-script-generation/problem_unittests.py"
 
   
  
